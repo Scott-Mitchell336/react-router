@@ -1,5 +1,4 @@
 import { useParams } from "react-router";
-import "../index.css";
 
 function Color() {
   const { color } = useParams();
